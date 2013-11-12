@@ -1,4 +1,4 @@
 <?php
 #phpinfo();
 
-print "AAA"
+print "AAABBB"
